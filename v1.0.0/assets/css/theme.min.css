@@ -8498,6 +8498,9 @@ fieldset:disabled .btn {
 .text-white {
     color: #fffefe !important;
 }
+.text-magenta{
+    color:#520e2d !important;
+}
 .text-body {
     color: #424242 !important;
 }
